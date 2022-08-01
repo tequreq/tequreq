@@ -2,15 +2,6 @@
   <a href="https://twitter.com/tequreq">
     <img src="https://img.shields.io/twitter/follow/tequreq?style=for-the-badge&label=%40tequreq&logo=twitter&logoColor=00AEFF&labelColor=282A36&color=DD6387">
   </a>
-    <a href="https://www.youtube.com/channel/UC694QlZiqtCRW916nozIfnQ">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC694QlZiqtCRW916nozIfnQ?style=for-the-badge&label=%40Utku Sen&logo=youtube&logoColor=00AEFF&labelColor=282A36&color=DD6387">
-  </a>
-  <a href="https://www.linkedin.com/in/utkusn/">
-    <img src="https://img.shields.io/badge/-utku%20sen-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=282A36&color=282A36">
-  </a>
- <a href="https://www.twitch.tv/utku1337">
-    <img src="https://img.shields.io/badge/-utku1337-blue?style=for-the-badge&logo=Twitch&logoColor=00AEFF&labelColor=282A36&color=282A36">
-  </a>
 </p>
 
 
